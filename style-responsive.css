@@ -48,13 +48,6 @@
     .test-card-bottom{
         justify-content: start;
     }
-<<<<<<< HEAD
-    .test-card-bottom{
-        /* width: 50%; */
-    }
-=======
-
->>>>>>> 3cc57b3 (Form)
 }
 @media only screen and (max-width: 1000px){
     .main-home{
@@ -67,23 +60,14 @@
     .main-home-right{
         width: 100%;
     }
- 
-<<<<<<< HEAD
-    nav{
-        /* display: none; */
-    }
-    .quote{
-        display: none;
-    }
-    .footer{
-        /* display: none; */
-    }
-=======
     .quote{
         display: none;
     }
 
->>>>>>> 3cc57b3 (Form)
+    .quote{
+        display: none;
+    }
+
     .segment{
         padding: 3rem 5rem;
     }
@@ -96,18 +80,15 @@
     }
     .plans-wrapper{
         flex-wrap: wrap;
-<<<<<<< HEAD
     }
     .plan-card{
         flex-basis: 48%;
-=======
         justify-content: space-between;
         
     }
     .plan-card{
         flex-basis: 48%;
         margin: 1.5rem 0;
->>>>>>> 3cc57b3 (Form)
     }
     .main-about-us{
         flex-direction: column;
@@ -182,12 +163,6 @@
     nav{
         height: 5vh;
     }
-<<<<<<< HEAD
-    .home{
-        /* height: 30vh; */
-    }
-=======
->>>>>>> 3cc57b3 (Form)
     .plan-card{
         flex-basis: 80%;
         height: 38rem;
