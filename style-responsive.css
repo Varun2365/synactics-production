@@ -48,6 +48,7 @@
     .test-card-bottom{
         justify-content: start;
     }
+
 }
 @media only screen and (max-width: 1000px){
     .main-home{
@@ -60,10 +61,7 @@
     .main-home-right{
         width: 100%;
     }
-    .quote{
-        display: none;
-    }
-
+ 
     .quote{
         display: none;
     }
@@ -80,9 +78,6 @@
     }
     .plans-wrapper{
         flex-wrap: wrap;
-    }
-    .plan-card{
-        flex-basis: 48%;
         justify-content: space-between;
         
     }
